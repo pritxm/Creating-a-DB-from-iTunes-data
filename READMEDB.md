@@ -1,0 +1,1 @@
+This task involves extracting useful information about tracks from XML data obtained through the iTunes API. The extracted information is then stored in a NoSQL database using a Python script. This enables easy retrieval of the information using SQL commands.
